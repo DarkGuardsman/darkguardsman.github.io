@@ -1,2 +1,2 @@
 # personal-site
-My personal site for both my real name and only names
+My personal site to help people find information about my online presence
